@@ -35,3 +35,4 @@ C:\Users\LioK\Documents\Administratif\JobHunting\Stage\DockerCoreVS\WepAppOnDock
 C:\Users\LioK\Documents\Administratif\JobHunting\Stage\DockerCoreVS\WepAppOnDocker\WepAppOnDocker\obj\Debug\netcoreapp3.1\WepAppOnDocker.pdb
 C:\Users\LioK\Documents\Administratif\JobHunting\Stage\DockerCoreVS\WepAppOnDocker\WepAppOnDocker\obj\Debug\netcoreapp3.1\WepAppOnDocker.genruntimeconfig.cache
 C:\Users\LioK\Documents\Administratif\JobHunting\Stage\DockerCoreVS\WepAppOnDocker\WepAppOnDocker\obj\Debug\netcoreapp3.1\WepAppOnDocker.csproj.CopyComplete
+C:\Users\LioK\Documents\Administratif\JobHunting\Stage\DockerCoreVS\WepAppOnDocker\WepAppOnDocker\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\WepAppOnDocker20201104143541 - Web Deploy\profile.arm.json
