@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVUBtX/IN8Tl31WTUmtas6p1Dm0wXxQliZPX3Src7Cnj1x41x6Bfqw8BCzkf0LEszVV5gwoC3MEB1tq+/WE06Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LioK\\Documents\\Administratif\\JobHunting\\Stage\\DockerCoreVS\\WepAppOnDocker\\WepAppOnDocker\\WepAppOnDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LioK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
